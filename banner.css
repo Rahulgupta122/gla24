@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+.container p{
+    width: 50%;
+}
+@media (max-width:768px) {
+    .container{
+        flex-direction: column-reverse;
+    }
+    .container p{
+        width: 100%;
+    }
+    
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+
+}
+.container1 p{
+    width: 50%;
+}
+@media (max-width:768px) {
+    .container1{
+        flex-direction: column-reverse;
+    }
+    .container1 p{
+        width: 100%;
+    }
+    
+}
