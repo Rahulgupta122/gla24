@@ -9,7 +9,7 @@ let resume={
     "About":"A highly skilled software engineer with 5+ years of experience in developing web applications and managing sothearo projects Proficient in various programming languages and frameworks, with a strong ability to solve complex problertes and deliver high-quality software solutions",
     "skill":["java","c","JAvascipt"],
     "Education":{"College":"Gla",
-        "School":"sarawati vidya mandir"
+        "School":"saraswati vidya mandir"
     },
     "Senior Software Engineer":["Worked on various projects using Angular and Express js","Collaborated with designers to create user-friendly web interfaces"],
     
@@ -18,6 +18,8 @@ let resume={
 
     
 }
+
+
 console.log(resume);
 console.log(resume.Education.College);
 

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const mouseOut=document.getElementById("mouse-out");
+        const mouseMouse=document.getElementById("mouse-out");
+        const mouseWheel=document.getElementById("mouse-out");
+
+        mouseEvents.addEventListener("mousemove",(event)=>{
+            mousePosition.textContent=`Mouse Position: ${event.clientX},${event.clientY}`;
+        });
+
+        mouseEvents.addEventListener("click",()=>{
+            mousePosition.textContent=`Mouse Click : Clicked!`;
+        });
+        mouseEvents.addEventListener("dblclick",()=>{
+            mousePosition.textContent=`double Click : Clicked!`;
+        });
+
+
+    </script>
+</body>
+</html>
