@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    border: 2px solid black;
+    margin: 50px;
+    height: 80vh;
+    width: 30vw;
+    margin-left: 670px;
+    background-image: url(panda1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box1{
+    border: 1px solid green;
+    background-color: brown;
+    position: right;
+    margin-top: 20px;
+    height: 30px;
+    margin-right: 391px;
+    margin-left: 12px;
+    color: aliceblue;
+    border-radius: 7px;
+}
+.box2{
+    border: 1px solid green;
+    background-color: brown;
+    position: right;
+    margin-top: 20px;
+    height: 75px;
+    margin-right: 391px;
+    margin-left: 12px;
+    color: aliceblue;
+    width: 242px;
+    border-radius: 7px;
+}
+.boxR{
+    border: 1px solid green;
+    background-color: brown;
+    position: right;
+    margin-top: 20px;
+    height: 30px;
+    margin-right: 9px;
+    margin-left: 464px;
+    color: aliceblue;
+    border-radius: 7px;
+}
+.boxR2{
+    border: 1px solid green;
+    background-color: brown;
+    position: right;
+    margin-top: 20px;
+    height: 70px;
+    margin-right: 9px;
+    margin-left: 317px;
+    color: aliceblue;
+    border-radius: 7px;
+}
+.boxL{
+    border: 1px solid green;
+    background-color: brown;
+    position: right;
+    margin-top: 30px;
+    height: 115px;
+    margin-right: 294px;
+    margin-left: 12px;
+    color: aliceblue;
+    border-radius: 7px;
+}
+.boxRR{
+    border: 1px solid green;
+    background-color: brown;
+    position: right;
+    margin-top: 20px;
+    height: 143px;
+    margin-right: 9px;
+    margin-left: 332px;
+    color: aliceblue;
+    border-radius: 7px;
+}
